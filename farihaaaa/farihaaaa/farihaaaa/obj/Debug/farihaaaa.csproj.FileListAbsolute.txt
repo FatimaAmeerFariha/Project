@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\bin\Debug\farihaaaa.exe.config
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\bin\Debug\farihaaaa.exe
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\bin\Debug\farihaaaa.pdb
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.Form1.resources
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.Properties.Resources.resources
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.exe
+C:\Users\Hp\Desktop\farihaaaa\farihaaaa\farihaaaa\obj\Debug\farihaaaa.pdb
